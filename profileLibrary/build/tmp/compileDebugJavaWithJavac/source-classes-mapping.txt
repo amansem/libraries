@@ -1,0 +1,4 @@
+com/example/profilelibrary/BuildConfig.java
+ com.example.profilelibrary.BuildConfig
+com/example/profilelibrary/ProfileActivity.java
+ com.example.profilelibrary.ProfileActivity

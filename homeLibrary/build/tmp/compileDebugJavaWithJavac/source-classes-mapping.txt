@@ -1,0 +1,4 @@
+com/example/homelibrary/BuildConfig.java
+ com.example.homelibrary.BuildConfig
+com/example/homelibrary/HomeActivity.java
+ com.example.homelibrary.HomeActivity

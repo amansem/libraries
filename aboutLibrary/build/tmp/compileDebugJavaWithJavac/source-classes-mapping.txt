@@ -1,0 +1,4 @@
+com/example/aboutlibrary/AboutActivity.java
+ com.example.aboutlibrary.AboutActivity
+com/example/aboutlibrary/BuildConfig.java
+ com.example.aboutlibrary.BuildConfig

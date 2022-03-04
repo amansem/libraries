@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+id bottomNavigationView
+id profile
+layout activity_profile
